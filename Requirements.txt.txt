@@ -1,0 +1,27 @@
+
+# JARVIS - Python Dependencies
+
+# AI Integration
+groq
+google-genai
+
+# Desktop GUI
+customtkinter
+pillow
+
+# System Information
+psutil
+
+# Network Communication
+requests
+
+# Audio and Voice
+SpeechRecognition
+PyAudio
+pyttsx3
+
+# Automation
+pyautogui
+
+# Environment Configuration
+python-dotenv

@@ -1,0 +1,22 @@
+
+Copyright (c) 2026 JARVIS AI Assistant. All rights reserved.
+
+JARVIS is a proprietary AI assistant software project developed by its author.
+
+PERMISSIONS:
+- Viewing the source code for educational purposes is permitted.
+- Viewing the project for portfolio and demonstration purposes is permitted.
+- Referencing the project for personal learning is permitted.
+
+RESTRICTIONS:
+- Copying or redistributing the source code is prohibited without prior written permission.
+- Modifying or creating derivative works is prohibited without prior written permission.
+- Commercial use, resale, or redistribution is prohibited without prior written permission.
+- Claiming ownership or authorship of this project is prohibited.
+- Removing copyright notices is prohibited.
+
+DISCLAIMER:
+This software is provided "AS IS", without warranties or guarantees.
+The author is not responsible for damages arising from the use of this software.
+
+All rights reserved.
